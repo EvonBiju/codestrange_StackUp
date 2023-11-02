@@ -1,5 +1,5 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
+# Online Quiz Platform
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Evon Biju [https://github.com/EvonBiju]
