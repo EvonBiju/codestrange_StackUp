@@ -1,6 +1,7 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Online Quiz Platform
 Long Description about project. This project do that. This project is awesome...
+Test your knowledge and challenge your friends with fun and engaging quizzes.
 ## Team members
 1. Evon Biju [https://github.com/EvonBiju]
 2. Mohammad Nihan Hisham [https://github.com/TheCoderNihan]
