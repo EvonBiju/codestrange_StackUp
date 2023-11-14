@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .outer-container {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .inner-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Set the width of the rectangular box as needed */
+  }
+  
+  .form-content {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  input,
+  select {
+    width: calc(100% - 10px);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
